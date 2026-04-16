@@ -1,6 +1,6 @@
-# Báo cáo cá nhân: Hệ thống Phòng thủ Đa tầng (Defense-in-Depth)
-**Học viên:** [Tên của bạn]  
-**Khóa học:** AICB-P1 — AI Agent Development  
+# Individual Report
+**Họ và tên:** Nguyễn Ngọc Khánh Duy
+**Mã HV:** 2A202600189
 **Ngày thực hiện:** 16/04/2026
 
 ---
